@@ -1,84 +1,97 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF3F6C,100:6C5CE7&height=180&section=header&text=Score%20Lookup%20XI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Cricket%20Team%20Scoring%20System%20in%20Excel&descAlignY=68&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3F6C,100:6C5CE7&height=220&section=header&text=Hi,%20I'm%20Muskan%20Singal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Turning%20Numbers%20into%20Stories&descAlignY=52&descSize=20" alt="header"/>
 </p>
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3F6C&center=true&vCenter=true&width=640&lines=VLOOKUP+%7C+HLOOKUP+%7C+INDEX-MATCH+%7C+XLOOKUP;Retrieve+Player+%26+Team+Scores+Instantly;Dynamic+%26+Interactive+Excel+Spreadsheet" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/muskan-singal-64ab26211/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF3F6C&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+MIS+%7C+Reporting;Advanced+Excel+%7C+SQL+%7C+Data+Visualization;Transforming+Raw+Data+into+Actionable+Insights;2%2B+Years+in+Data+Reporting+%26+Analytics" alt="Typing SVG" />
+  </a>
 </p>
-<!-- ============ BADGES ============ -->
+<!-- ============ VISITOR COUNT + FOLLOW ============ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muskansingal29&label=Profile%20Views&color=FF3F6C&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/muskansingal29?tab=followers">
+    <img src="https://img.shields.io/github/followers/muskansingal29?label=Follow&style=for-the-badge&color=6C5CE7" alt="Followers"/>
+  </a>
+</p>
+<hr/>
+<!-- ============ ABOUT ME ============ -->
+<h2>👩‍💻 About Me</h2>
+<ul>
+  <li>📊 <b>Data Analyst</b> with <b>2+ years</b> of professional experience in data reporting, validation, and operations</li>
+  <li>🏢 Currently an <b>Associate at Genpact</b>, previously an <b>Analyst at Concentrix</b></li>
+  <li>🎓 <b>Master of Computer Applications (MCA)</b> in Data Analytics — Gurugram University</li>
+  <li>🔢 I love working with <b>large datasets</b>, building <b>reports</b>, and turning <b>raw numbers into actionable insights</b></li>
+  <li>📍 Based in <b>Gurugram, Haryana, India</b></li>
+  <li>🚀 <b>Actively seeking opportunities</b> in Data Analysis / MIS / Reporting roles</li>
+  <li>💡 My motto: <b>"Turning Numbers into Stories"</b></li>
+</ul>
+<hr/>
+<!-- ============ TECH STACK ============ -->
+<h2>🛠️ Tech Stack &amp; Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Lookup_Functions-FF3F6C?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Lookup Functions"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/muskansingal29/Score-Lookup-XI-?style=flat-square&color=FF3F6C" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/repo-size/muskansingal29/Score-Lookup-XI-?style=flat-square&color=6C5CE7" alt="Repo Size"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-FF3F6C?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-6C5CE7?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Reporting_%26_MIS-009688?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Reporting"/>
 </p>
-<hr/>
-<!-- ============ ABOUT ============ -->
-<h2>🏏 About The Project</h2>
-<p>
-  <b>Score Lookup XI</b> is an interactive Excel project built to manage and analyze cricket team scores using Excel's powerful lookup functions. It lets users quickly retrieve player statistics, match scores, and team performance summaries from a single dynamic spreadsheet.
-</p>
-<p>
-  Teams are scored across three disciplines — <b>Batting</b>, <b>Bowling</b>, and <b>Fielding</b> — each rated by three independent judges, with an automatically calculated <b>Grand Total</b> for every team.
-</p>
-<hr/>
-<!-- ============ FEATURES ============ -->
-<h2>✨ Key Features</h2>
+<h3>💪 Core Strengths</h3>
 <ul>
-  <li>🔎 <b>Instant Lookups</b> — retrieve any team's scores in seconds</li>
-  <li>🏏 <b>Multi-Discipline Scoring</b> — Batting, Bowling &amp; Fielding tracked separately</li>
-  <li>⚖️ <b>Multi-Judge System</b> — three judges score each discipline for fairness</li>
-  <li>🧮 <b>Auto Grand Total</b> — totals calculated automatically across all categories</li>
-  <li>🎨 <b>Conditional Formatting</b> — color scale highlights top and bottom performers at a glance</li>
-  <li>⚡ <b>Dynamic &amp; Reusable</b> — update the data and results refresh instantly</li>
+  <li>🧹 <b>Data Cleaning &amp; Validation</b> — ensuring accuracy across large datasets</li>
+  <li>📈 <b>Pivot Tables, Charts &amp; Dashboards</b> — for fast, clear insights</li>
+  <li>🔍 <b>SQL Querying</b> — extracting and analyzing data</li>
+  <li>📊 <b>Reporting &amp; MIS</b> — supporting business decisions with data</li>
+  <li>⚙️ <b>Process Improvement</b> — driving operational efficiency</li>
 </ul>
 <hr/>
-<!-- ============ LOOKUP FUNCTIONS ============ -->
-<h2>🛠️ Excel Functions Used</h2>
+<!-- ============ EXPERIENCE ============ -->
+<h2>💼 Work Experience</h2>
 <ul>
-  <li>📌 <b>VLOOKUP</b> — vertical lookups to fetch team/player records</li>
-  <li>📌 <b>HLOOKUP</b> — horizontal lookups across score categories</li>
-  <li>📌 <b>INDEX-MATCH</b> — flexible two-way lookups for precise retrieval</li>
-  <li>📌 <b>XLOOKUP</b> — modern, all-in-one lookup for fast results</li>
-  <li>📌 <b>Conditional Formatting</b> — visual color scales on the Grand Total</li>
+  <li>🏢 <b>Associate — Genpact</b> &nbsp;<i>(Jan 2025 – Present)</i><br/>
+      Data validation, reporting, and process improvement to drive operational efficiency and data accuracy.</li>
+  <br/>
+  <li>📊 <b>Analyst — Concentrix</b> &nbsp;<i>(Oct 2023 – Dec 2024)</i><br/>
+      Handled large datasets, generated reports, and used Excel &amp; analytical tools to support business decisions.</li>
+  <br/>
+  <li>⌨️ <b>Data Entry Operator — Kripanath Technology</b> &nbsp;<i>(2021)</i><br/>
+      Early hands-on experience working with data and records.</li>
 </ul>
 <hr/>
-<!-- ============ PREVIEW ============ -->
-<h2>🖼️ Project Preview</h2>
-<h3>📊 Main Scoring Sheet</h3>
+<!-- ============ EDUCATION ============ -->
+<h2>🎓 Education</h2>
+<ul>
+  <li>🎓 <b>Master of Computer Applications (MCA)</b> — Gurugram University &nbsp;<i>(2022 – 2024)</i><br/>
+      Specialization in Data Analytics · Grade: 75%</li>
+  <br/>
+  <li>📚 <b>Bachelor of Computer Applications (BCA)</b> — Chaudhary Bansi Lal University, Bhiwani &nbsp;<i>(2019 – 2022)</i><br/>
+      Grade: 78%</li>
+</ul>
+<hr/>
+<!-- ============ FEATURED PROJECT ============ -->
+<h2>📌 Featured Project</h2>
+<h3>📊 Myntra Excel Project</h3>
+<blockquote>
+  Analysis of Myntra's e-commerce dataset using Excel — data cleaning, pivot tables, charts, and an interactive dashboard.
+</blockquote>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muskansingal29/Score-Lookup-XI-/main/Main%20Sheet%20view.png" alt="Main Sheet View" width="90%"/>
+  <a href="https://github.com/muskansingal29/Myntra-Excel-Project">
+    <img src="https://raw.githubusercontent.com/muskansingal29/Myntra-Excel-Project/main/Myntra%20Dashboard.png" alt="Myntra Dashboard" width="75%"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/muskansingal29/Myntra-Excel-Project">
+    <img src="https://img.shields.io/badge/View_Project-FF3F6C?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
 </p>
 <hr/>
-<!-- ============ STRUCTURE ============ -->
-<h2>📁 Repository Structure</h2>
-<ul>
-  <li>📊 <b>Cricket team Project.xlsx</b> — Main workbook with all lookup formulas &amp; scoring</li>
-  <li>🖼️ <b>Main Sheet view.png</b> — Preview of the scoring dashboard</li>
-  <li>📄 <b>README.md</b> — Project overview (this file)</li>
-</ul>
-<hr/>
-<!-- ============ HOW TO USE ============ -->
-<h2>🚀 How To Use</h2>
-<ul>
-  <li>📥 <b>Download or clone</b> this repository:</li>
-</ul>
-```bash
-git clone https://github.com/muskansingal29/Score-Lookup-XI-.git
-```
-<ul>
-  <li>📂 <b>Open</b> <code>Cricket team Project.xlsx</code> in Microsoft Excel</li>
-  <li>🔎 <b>Explore</b> the lookup formulas to see how scores are retrieved</li>
-  <li>✏️ <b>Edit</b> the judge scores and watch the Grand Total update automatically</li>
-</ul>
-<hr/>
-<!-- ============ AUTHOR ============ -->
-<h2>🤝 Author</h2>
-<p><b>Muskan Singal</b> — Data Analyst | Turning Numbers into Stories</p>
+<!-- ============ CONNECT ============ -->
+<h2>🤝 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/muskan-singal-64ab26211/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -91,9 +104,9 @@ git clone https://github.com/muskansingal29/Score-Lookup-XI-.git
   </a>
 </p>
 <p align="center">
-  ⭐ <i>If you found this project helpful, consider giving it a star!</i>
+  💬 <i>Open to Data Analysis, MIS, and Reporting opportunities — let's talk!</i>
 </p>
-<!-- ============ FOOTER ============ -->
+<!-- ============ ANIMATED FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6C5CE7,100:FF3F6C&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FF3F6C&height=120&section=footer" alt="footer"/>
 </p>
