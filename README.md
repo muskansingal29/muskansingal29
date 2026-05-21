@@ -15,17 +15,21 @@
     <img src="https://img.shields.io/github/followers/muskansingal29?label=Follow&style=for-the-badge&color=6C5CE7" alt="Followers"/>
   </a>
 </p>
----
-👩‍💻 About Me
-📊 Data Analyst with 2+ years of professional experience in data reporting, validation, and operations
-🏢 Currently an Associate at Genpact, previously an Analyst at Concentrix
-🎓 Master of Computer Applications (MCA) in Data Analytics — Gurugram University
-🔢 I love working with large datasets, building reports, and turning raw numbers into actionable insights
-📍 Based in Gurugram, Haryana, India
-🚀 Actively seeking opportunities in Data Analysis / MIS / Reporting roles
-💡 My motto: "Turning Numbers into Stories"
----
-🛠️ Tech Stack & Tools
+<hr/>
+<!-- ============ ABOUT ME ============ -->
+<h2>👩‍💻 About Me</h2>
+<ul>
+  <li>📊 <b>Data Analyst</b> with <b>2+ years</b> of professional experience in data reporting, validation, and operations</li>
+  <li>🏢 Currently an <b>Associate at Genpact</b>, previously an <b>Analyst at Concentrix</b></li>
+  <li>🎓 <b>Master of Computer Applications (MCA)</b> in Data Analytics — Gurugram University</li>
+  <li>🔢 I love working with <b>large datasets</b>, building <b>reports</b>, and turning <b>raw numbers into actionable insights</b></li>
+  <li>📍 Based in <b>Gurugram, Haryana, India</b></li>
+  <li>🚀 <b>Actively seeking opportunities</b> in Data Analysis / MIS / Reporting roles</li>
+  <li>💡 My motto: <b>"Turning Numbers into Stories"</b></li>
+</ul>
+<hr/>
+<!-- ============ TECH STACK ============ -->
+<h2>🛠️ Tech Stack &amp; Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -37,23 +41,29 @@
   <img src="https://img.shields.io/badge/Data_Visualization-6C5CE7?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"/>
   <img src="https://img.shields.io/badge/Reporting_%26_MIS-009688?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Reporting"/>
 </p>
-💪 Core Strengths
-🧹 Data Cleaning & Validation — ensuring accuracy across large datasets
-📈 Pivot Tables, Charts & Dashboards — for fast, clear insights
-🔍 SQL Querying — extracting and analyzing data
-📊 Reporting & MIS — supporting business decisions with data
-⚙️ Process Improvement — driving operational efficiency
----
-📌 Featured Project
-📊 Myntra Excel Project
-> Analysis of Myntra's e-commerce dataset using Excel — data cleaning, pivot tables, charts, and an interactive dashboard.
+<h3>💪 Core Strengths</h3>
+<ul>
+  <li>🧹 <b>Data Cleaning &amp; Validation</b> — ensuring accuracy across large datasets</li>
+  <li>📈 <b>Pivot Tables, Charts &amp; Dashboards</b> — for fast, clear insights</li>
+  <li>🔍 <b>SQL Querying</b> — extracting and analyzing data</li>
+  <li>📊 <b>Reporting &amp; MIS</b> — supporting business decisions with data</li>
+  <li>⚙️ <b>Process Improvement</b> — driving operational efficiency</li>
+</ul>
+<hr/>
+<!-- ============ FEATURED PROJECT ============ -->
+<h2>📌 Featured Project</h2>
+<h3>📊 Myntra Excel Project</h3>
+<blockquote>
+  Analysis of Myntra's e-commerce dataset using Excel — data cleaning, pivot tables, charts, and an interactive dashboard.
+</blockquote>
 <p align="center">
   <a href="https://github.com/muskansingal29/Myntra-Excel-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muskansingal29&repo=Myntra-Excel-Project&theme=radical" alt="Myntra Excel Project"/>
   </a>
 </p>
----
-📈 GitHub Stats
+<hr/>
+<!-- ============ GITHUB STATS ============ -->
+<h2>📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskansingal29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskansingal29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
@@ -61,12 +71,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muskansingal29&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-<!-- ============ TROPHIES ============ -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muskansingal29&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
----
-🤝 Let's Connect
+<hr/>
+<!-- ============ CONNECT ============ -->
+<h2>🤝 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/muskan-singal-64ab26211/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
