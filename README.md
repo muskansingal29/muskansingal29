@@ -50,6 +50,29 @@
   <li>⚙️ <b>Process Improvement</b> — driving operational efficiency</li>
 </ul>
 <hr/>
+<!-- ============ EXPERIENCE ============ -->
+<h2>💼 Work Experience</h2>
+<ul>
+  <li>🏢 <b>Associate — Genpact</b> &nbsp;<i>(Jan 2025 – Present)</i><br/>
+      Data validation, reporting, and process improvement to drive operational efficiency and data accuracy.</li>
+  <br/>
+  <li>📊 <b>Analyst — Concentrix</b> &nbsp;<i>(Oct 2023 – Dec 2024)</i><br/>
+      Handled large datasets, generated reports, and used Excel &amp; analytical tools to support business decisions.</li>
+  <br/>
+  <li>⌨️ <b>Data Entry Operator — Kripanath Technology</b> &nbsp;<i>(2021)</i><br/>
+      Early hands-on experience working with data and records.</li>
+</ul>
+<hr/>
+<!-- ============ EDUCATION ============ -->
+<h2>🎓 Education</h2>
+<ul>
+  <li>🎓 <b>Master of Computer Applications (MCA)</b> — Gurugram University &nbsp;<i>(2022 – 2024)</i><br/>
+      Specialization in Data Analytics · Grade: 75%</li>
+  <br/>
+  <li>📚 <b>Bachelor of Computer Applications (BCA)</b> — Chaudhary Bansi Lal University, Bhiwani &nbsp;<i>(2019 – 2022)</i><br/>
+      Grade: 78%</li>
+</ul>
+<hr/>
 <!-- ============ FEATURED PROJECT ============ -->
 <h2>📌 Featured Project</h2>
 <h3>📊 Myntra Excel Project</h3>
@@ -58,21 +81,13 @@
 </blockquote>
 <p align="center">
   <a href="https://github.com/muskansingal29/Myntra-Excel-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muskansingal29&repo=Myntra-Excel-Project&theme=radical" alt="Myntra Excel Project"/>
+    <img src="https://raw.githubusercontent.com/muskansingal29/Myntra-Excel-Project/main/Myntra%20Dashboard.png" alt="Myntra Dashboard" width="75%"/>
   </a>
 </p>
-<hr/>
-<!-- ============ GITHUB STATS ============ -->
-<h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskansingal29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskansingal29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muskansingal29&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muskansingal29&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <a href="https://github.com/muskansingal29/Myntra-Excel-Project">
+    <img src="https://img.shields.io/badge/View_Project-FF3F6C?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
 </p>
 <hr/>
 <!-- ============ CONNECT ============ -->
